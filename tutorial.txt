@@ -1,0 +1,5 @@
+cls
+%~dp0
+cd settings
+type dicecuantity.txt
+pause
