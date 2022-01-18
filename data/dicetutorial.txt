@@ -1,0 +1,36 @@
+
+ Welcome to the dice tutorial
+
+
+ The dice game have 3 parts:
+
+ 1: Random number
+
+ 2: Counting the number of times pressed
+
+ 3: Secret (be carefull)
+
+
+ Random number
+
+ The random number is usefull, The number can be until 30 for default(can be changed)
+
+ That number appear in the upper part on the black part of the screen
+
+
+ Counting the number of times pressed 
+
+ This can be found on the title or in the bottom part of the black screen
+
+
+ Be carefull this is usefull for the secret part of the dice game
+
+
+ The secret part of the dice game
+
+ when you reach a certain number of times pressed your random number is
+
+ replaced with a text,
+
+ if you dont care of the text, YOUR FAULT
+
