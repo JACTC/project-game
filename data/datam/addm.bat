@@ -1,4 +1,4 @@
-set one=1
+set one=5
 %~dp0
 for /f "delims=" %%x in (money) do set mon= %%x
 set /a money= %mon%+%one%

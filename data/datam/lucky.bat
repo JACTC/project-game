@@ -29,7 +29,7 @@ set /p porcentonecero=<lucky10
 set /p porcentfivecero=<lucky50
 set /p porcentonecerocero=<lucky100
 set /p porcenttwocerocero=<lucky200
-set /a one = 1
+set /a one = 5
 title LUCKY GAME
 cls
 echo:

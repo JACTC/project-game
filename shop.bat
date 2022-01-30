@@ -1,5 +1,5 @@
 @echo off
-set /a one=1
+set /a one=5
 TITLE SHOP
 :start
 pushd %~dp0
